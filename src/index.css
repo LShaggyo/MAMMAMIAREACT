@@ -1,0 +1,71 @@
+.header {
+    background-image: url("./assets/imgs/pizza1.jpeg");
+    background-size: cover;
+    background-position: center;
+    color: white;
+    padding: 80px;
+    text-align: start;
+  
+  }
+
+.active {
+  color: black;
+  text-decoration: none;
+  font-weight: bold;
+  
+}
+
+.not-active {
+
+  color:aliceblue;
+  text-decoration: none;
+  
+}
+
+a:hover{
+  color: yellowgreen;
+}
+
+
+
+.listGroup {
+
+ font-weight: bolder;
+}
+
+
+.list-group-flush span{
+
+  text-align: center;
+  font-weight: bold;
+  margin-top: 40px;
+}
+
+
+.btn-detail{
+  background-color:rgb(88, 9, 133);
+  color: rgb(255, 255, 255);
+ 
+ 
+
+  font-size: small;
+}
+
+
+
+.btn-add{
+padding: 3px;
+background-color: rgb(247, 124, 8);
+
+  color:white;
+
+  font-size: small;
+}
+
+.pizzaCart img{
+  height: 70px;
+  width: auto;
+ margin-left: 70px;
+
+}
+
